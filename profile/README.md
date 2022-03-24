@@ -1,4 +1,6 @@
-# Ablestor
+<img src="https://stg.mommoss.com:3100/uploads/images/2022/1648095767174_1648095767571.gif" >
+
+<!-- # Ablestor
 
 에이블은 유능한, 뛰어남을 뜻하는 영어의 기원이며, 스토어는 저장이라는 뜻을 가집니다.
 디지털 시대의 모든 데이터는 공유되고 저장되기에, 저희 에이블스토어는 디지털 콘텐츠를 생성, 공유, 저장에 있어서 뛰어난 실력을 발휘하여 상상을 현실화 하고자 하는 기업입니다.
@@ -18,13 +20,10 @@
 
 Synology 국내 유통사입니다. 안정적인 운영 환경을 바탕으로 HCI, 전자문서, 프라이빗 클라우드로 제품 영역을 확장중에 있습니다.
 
-<!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) -->
