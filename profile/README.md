@@ -1,4 +1,4 @@
-<a href="https://github.com/Ablestor/test-repo">프로젝트 이슈 기록</a></br></br>
+<a href="https://github.com/Ablestor/test-repo/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">프로젝트 이슈 기록</a></br></br>
 <a href="https://github.com/orgs/Ablestor/projects/12">세무사회 맘모스 - Mobile</a></br>
 <a href="https://github.com/orgs/Ablestor/projects/11">세무사회 맘모스 - PC</a></br>
 <a href="https://github.com/orgs/Ablestor/projects/10">세무사회 시스템 HCI 전환작업</a></br>
