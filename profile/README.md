@@ -1,8 +1,8 @@
-<a href="https://github.com/Ablestor/test-repo/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">프로젝트 이슈 기록</a></br></br>
-<a href="https://github.com/orgs/Ablestor/projects/12">세무사회 맘모스 - Mobile</a></br>
-<a href="https://github.com/orgs/Ablestor/projects/11">세무사회 맘모스 - PC</a></br>
-<a href="https://github.com/orgs/Ablestor/projects/10">세무사회 시스템 HCI 전환작업</a></br>
-<a href="https://github.com/orgs/Ablestor/projects/9">몽글박스 (인터넷 금고)</a>
+<a href="https://github.com/Ablestor/test-repo/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">Project Issues Report</a></br></br>
+<a href="https://github.com/orgs/Ablestor/projects/12">kacpta mammoss - Mobile</a></br>
+<a href="https://github.com/orgs/Ablestor/projects/11">kacpta mammoss - PC</a></br>
+<a href="https://github.com/orgs/Ablestor/projects/10">kacpta HCI system migration</a></br>
+<a href="https://github.com/orgs/Ablestor/projects/9">Mongle box</a>
 
 
 <!-- # Ablestor
